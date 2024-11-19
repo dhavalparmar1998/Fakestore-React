@@ -1,0 +1,43 @@
+{
+  "library": [
+    {
+      "libname": "Diwali",
+      "id": 1
+    }
+  ],
+  "group": [
+    {
+      "groupName": "Family",
+      "id": 1
+    },
+    {
+      "groupName": "Family",
+      "id": 2
+    }
+  ],
+  "message": [],
+  "contact": [
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "dhavalparmar7727@gmail.in",
+      "name": "dhaval",
+      "mobile": "9987992146",
+      "id": 1
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "dhavalparmar7727@gmail.in",
+      "name": "dhaval",
+      "mobile": "9987992146",
+      "id": 2
+    },
+    {
+      "name": "Dhaval Parmar1",
+      "mobile": "9987999987",
+      "email": "dhavalparmar7727@gmail.in",
+      "id": 3
+    }
+  ]
+}
